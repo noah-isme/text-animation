@@ -2,6 +2,8 @@
 
 This document contains recommendations for the best text animations from the catalog in this repository, categorized by use case and style.
 
+> **Location Note**: References like "Part X, #Y" point to the complete animation catalog in the `/docs/katalog/` folder. For example, "Part 2, #5" means animation #5 in the `animation-text-part2.md` file. See the [README](../README.md) for the complete list of all parts.
+
 ## 📋 Table of Contents
 - [Best Animations for Hero Sections](#best-animations-for-hero-sections)
 - [Modern and Elegant Animations](#modern-and-elegant-animations)

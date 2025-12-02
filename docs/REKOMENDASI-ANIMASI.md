@@ -2,6 +2,8 @@
 
 Dokumen ini berisi rekomendasi animasi teks terbaik dari katalog yang ada di repositori ini, dikategorikan berdasarkan kegunaan dan gaya.
 
+> **Catatan Lokasi**: Referensi "Part X, #Y" menunjuk ke katalog animasi lengkap di folder `/docs/katalog/`. Misalnya, "Part 2, #5" berarti animasi nomor 5 di file `animation-text-part2.md`. Lihat [README](../README.md) untuk daftar lengkap semua parts.
+
 ## 📋 Daftar Isi
 - [Animasi Terbaik untuk Hero Section](#animasi-terbaik-untuk-hero-section)
 - [Animasi Modern dan Elegan](#animasi-modern-dan-elegan)

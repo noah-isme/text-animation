@@ -2,6 +2,8 @@
 
 Fast reference guide for the best text animations.
 
+> **Location Note**: "Part X, #Y" refers to the catalog files in `/docs/katalog/`. Example: "Part 2, #5" = animation #5 in `animation-text-part2.md`. See [README](../README.md) for all catalog files.
+
 ## 🏆 Top 20 Must-Have Animations
 
 | Rank | Animation | Category | Location | Difficulty | Implementation |
