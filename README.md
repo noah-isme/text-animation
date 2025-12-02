@@ -32,6 +32,7 @@ This repository contains a complete catalog of text animations organized into **
 - 🇮🇩 **[Indonesian Guide](./docs/REKOMENDASI-ANIMASI.md)** - Panduan lengkap animasi terbaik (Bahasa Indonesia)
 - 🇬🇧 **[English Guide](./docs/ANIMATION-RECOMMENDATIONS.md)** - Complete best animations guide
 - ⚡ **[Quick Reference](./docs/QUICK-REFERENCE.md)** - Fast lookup for top 20 animations
+- 📊 **[Comparison Table](./docs/COMPARISON-TABLE.md)** - Detailed comparison with performance metrics
 
 ### Browse the Full Catalog
 
